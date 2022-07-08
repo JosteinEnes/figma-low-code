@@ -37,7 +37,7 @@ export default {
       // figmaJSON: app  //add to use the file instead of web
       figmaConfig: {
         figmaFile: "9k8JIDGZXUNNYrEn501zmH",
-        figmaAccessKey: "figd_C88fba7jcWWMujeTOtV5YcBrWzFyYJ8nJlH3qIAb",
+        figmaAccessKey: "Found in trello",
       },
       viewModel: {
         /**
